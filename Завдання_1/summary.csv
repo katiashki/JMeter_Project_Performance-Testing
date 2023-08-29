@@ -1,0 +1,7 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Get JSONPlaceholder,3,56,0,110,37.72,0.000%,1.75850,4.23,0.35,2464.3
+POST JSONPlaceholder,3,191,0,193,1.25,0.000%,1.67691,1.74,0.32,1060.0
+PUT JSONPlaceholder,3,189,0,191,1.63,0.000%,1.67973,1.54,0.32,937.7
+PATCH JSONPlaceholder,3,191,0,201,6.80,0.000%,1.67038,1.98,0.32,1214.3
+DELETE JSONPlaceholder,3,193,0,203,7.41,0.000%,1.67131,1.50,0.33,916.3
+TOTAL,15,164,0,203,56.65,0.000%,6.06061,7.80,1.18,1318.5

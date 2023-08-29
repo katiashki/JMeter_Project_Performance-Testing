@@ -1,0 +1,10 @@
+
+All tests were executed successfully within defined performance parameters. 
+Since there was no information about users quantity and response time lets assume that:
+- Expected response time: 2000ms.
+- Having 1 user accessing API for 3 times every 10 sec. 
+
+Conclusions: All responses are below expected response time. Average response time is around 190ms.
+ 
+
+
